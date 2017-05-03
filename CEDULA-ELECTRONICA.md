@@ -1,18 +1,7 @@
-<BODY><html>
-"Division Cientifica CERT-MX", 
-"delitocibernetico_pf@cns.gob.mx", "ceac@cns.gob.mx", 
-"Psic. KARXX XXXCE XEXN",
-"Agente Federal Particular del Ejecutivo",
-"Edificio del Poder Ejecutivo, 3er. Piso", 
-"CUID Sujeto Obligado 6283031", 
-"Calzada Independencia No. 994", 
-"Centro Cívico", 
-"Mexicali B.C. 21000", 
-"Teléfonos (686) 558-1000", 
-"E-Mail kgpdl@baja.gob.mx", 
-"Página Web", 
+<body>
+<html>
 "http://www.cns.gob.mx/"
-
+</html>
 <p align="center"><div class="b_title"><h1>Policía de Ciberdelincuencia Preventiva</h1></div><img alt="" src="http://data.ssp.cdmx.gob.mx/sliderimages/ciberdelincuencia/1.png"></p>
 <form><textarea style="background-color: rgb(0, 0, 0); color: rgb(0, 255, 0);" name="about" readonly="readonly" rows="18" cols="80" wrap="soft">_</textarea><br>
 </form>
